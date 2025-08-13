@@ -1,3 +1,4 @@
+package Clase1;
 public class PromedioMatriz {
     public static void main(String[] args) throws Exception {
         int[][] matriz = {{4, 5, 6}, {7, 8, 9}, {5, 6, 7}};
